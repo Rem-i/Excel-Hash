@@ -1,4 +1,4 @@
-<h1>This directory contains a small file that contains a number of hash colision for Excel versions before 2010 (Worksheet and Workbook protection)</h1>
+<h1>This directory contains a small text file that contains a number of hash colision for Excel versions before 2010 (Worksheet and Workbook protection)</h1>
 <br/>First column: The password
 <br/>Second columns: Hash in 64" format
 <br/>Third columns: Hash in hexadecimal format (the same as in the .xml file)
