@@ -14,3 +14,6 @@ sheetProtection password="D1E6" sheet="1" objects="1" scenarios="1"
 <br/>Find the correspondence in the ExcelHash file (first column).
 <br/>Enter this password to unlock the sheet.
 <br/><br/>There are many other ways to "crack" an Excel sheet, this file just shows the weakness of this type of protection.
+
+<h1>How can I calculate my own Excel hashes ? ?</h1>
+<h1>It's simple, use the "ExcelHashModule" module.
